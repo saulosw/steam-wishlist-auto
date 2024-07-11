@@ -1,4 +1,4 @@
-## AUTO-STEAM
+## Steam Wishlist auto
 
 This project automates the process of collecting and sending information about a user's Steam wishlist.
 
