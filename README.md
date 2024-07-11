@@ -1,4 +1,4 @@
-# steam-wishlist-auto 🎮
+# Steam Wishlist Auto 🎮
 
 This Python script automates the process of collecting and sending information about a user's Steam wishlist. It logs into the user's Steam account, retrieves data about wishlist items, and sends this data via email.
 
