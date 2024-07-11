@@ -5,7 +5,9 @@ This Python script automates the process of collecting and sending information a
 ## Features
 
 - **Automatic Steam Login**: Logs into the user's Steam account using the provided credentials.
+  
 - **Wishlist Data Collection**: Uses Selenium and BeautifulSoup to extract game data from the wishlist, including name, original price, discount price, and discount percentage.
+  
 - **Email Sending**: Formats the collected data and sends it to the user's email using `smtplib` and `email.mime`.
 
 ## Prerequisites
