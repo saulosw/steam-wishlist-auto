@@ -1,2 +1,24 @@
-# steam-wishlist-auto
-This project aims to automate the process of collecting and sending information about a user's Steam wishlist. Using Python, Selenium, BeautifulSoup, and email libraries, the script logs into the user's Steam account, collects game data from the wishlist, and sends this data via email to the user.
+## AUTO-STEAM
+
+This project automates the process of collecting and sending information about a user's Steam wishlist.
+
+## Key Features
+
+- Automatic Steam Login
+- Wishlist Data Collection
+- Email Sending
+
+## Technologies Used
+
+- Python
+- Selenium
+- BeautifulSoup
+- smtplib
+- email.mime
+- dotenv
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/steam-wishlist-auto.git
