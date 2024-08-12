@@ -1,6 +1,6 @@
 # Steam Wishlist Auto 🎮
 
-This Python script automates the process of collecting and sending information about a user's Steam wishlist. It logs into the user's Steam account, retrieves data about wishlist items, and sends this data via email.
+This script automates the process of collecting and sending information about a user's Steam wishlist. It logs into the user's Steam account, retrieves data about wishlist items, and sends this data via email.
 
 ## Features
 
@@ -20,5 +20,5 @@ This Python script automates the process of collecting and sending information a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/steam-wishlist-auto.git
+   git clone https://github.com/saulosw/steam-wishlist-auto.git
    cd steam-wishlist-auto
